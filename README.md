@@ -26,6 +26,6 @@
 
 ## Let's Connect!
 
-📧 Email: [Zaid Dadani](https://www.linkedin.com/in/zaiddadani/)
+LinkedIn: [Zaid Dadani](https://www.linkedin.com/in/zaiddadani/)
 
 
