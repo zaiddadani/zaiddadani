@@ -6,8 +6,6 @@
 
 👨‍💻 Graduate Java Developer with hands-on experience in Java, Hibernate, JSP, Servlets, and various components of the Spring Framework.
 
-💼 Proficient in building robust and scalable applications using Spring Boot, Spring MVC, and Spring Data JPA.
-
 🛠️ Experienced in working with databases like MySQL and MongoDB, utilizing both relational and NoSQL data models.
 
 🚀 Passionate about developing RESTful APIs, and well-versed in Spring REST.
